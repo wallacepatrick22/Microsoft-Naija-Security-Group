@@ -1,61 +1,34 @@
-# My Notes — [REPLACE WITH YOUR FULL NAME]
-
-> **How to use this file:**
-> 1. **Download** this file to your computer — click the **Raw** button on GitHub, then right-click and *Save As*, OR click the download icon at the top-right of the file view
-> 2. **Rename** the downloaded file — replace `yourname` with your actual first and last name in lowercase, separated by hyphens, e.g. `microsoft-entra-oyimafu-emmanuel.md`
-> 3. **Open** the renamed file in any text editor (Notepad, VS Code, TextEdit) and fill in your notes below
-> 4. **Upload** your file to GitHub — go into this session folder on your forked repo, click **Add file → Upload files**, drag in your completed file, then click **Commit changes**
-> 5. **Open a Pull Request** back to the main repo — the facilitator will review your notes before merging
-
----
+# My Notes — Wallace Tudeme
 
 ## Key Concepts I Learned
 
-<!-- Write the main ideas covered in today's session -->
-
--
--
--
-
----
+- How to create github
+- How to import repositories 
+- How to push and commit changes to the required repositories.
 
 ## Lab / Hands-On Work
 
-<!-- Describe what you did in the lab. Include steps, commands, or screenshots descriptions -->
+I completed my initial github setup for submitting this assignment and future ones.
 
 ### What I did
-
+I logged in to my github account, downloaded the template, edited the template and reuploaded the renamed copy of the template.
 
 ### What happened / Result
-
+I successfully updated the downloaded the renamed copy of the previously downloaded template with the completed first day practice tasks.
 
 ### Challenges I faced
-
-
----
+None for now 
 
 ## My Takeaways
 
-<!-- What was most valuable to you personally from this session? -->
-
-
----
+It provided me an opportunity to refresh my github skills.
 
 ## Questions I Still Have
 
-<!-- Anything you want to follow up on or ask the mentor -->
-
--
--
-
----
+None for now 
 
 ## Resources I Found Useful
 
-<!-- Any links, docs, or Microsoft Learn modules you found helpful -->
+The in session demo was really helpful in refreshing my github memory.
 
--
-
----
-
-*Submitted by: [Your Full Name] · [Your GitHub username]*
+*Submitted by: Wallace Tudeme· wallacepatrick22
