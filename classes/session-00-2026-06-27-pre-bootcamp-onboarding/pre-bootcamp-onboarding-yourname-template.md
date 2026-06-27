@@ -14,7 +14,7 @@ I completed my initial github setup for submitting this assignment and future on
 I logged in to my github account, downloaded the template, edited the template and reuploaded the renamed copy of the template.
 
 ### What happened / Result
-I successfully updated the downloaded the renamed copy of the previously downloaded template with the completed first day practice tasks.
+I successfully updated the downloaded-renamed copy of the previously downloaded template with the updated first day practice tasks.
 
 ### Challenges I faced
 None for now 
